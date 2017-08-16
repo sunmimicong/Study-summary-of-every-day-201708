@@ -1,0 +1,8 @@
+1. 从Git上将OP项目拉到IEDA上，拉下来后将Maven进行update,
+   然后配置JDk, 再配置了Tomcat,部署了项目并运行。
+2. 安装了GitHub的客户端,熟悉最基本的上传、clone等的运用操作。
+3. 了解了Spring Cloud的组件之Netflix Eureka。
+    Eureka是Netflix开发的服务发现组件.
+    Eureka包含两个组件：Eureka Server 和 Eureka Client.
+    
+   
